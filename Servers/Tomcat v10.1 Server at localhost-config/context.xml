@@ -28,6 +28,20 @@
     <!--
     <Manager pathname="SESSIONS.ser" />
     -->
+    <!-- StudyDB 커넥션 풀 설정 -->
+	<Resource 
+		name="jdbc/jboard"
+        auth="Container"
+        type="javax.sql.DataSource"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        url="jdbc:mysql://127.0.0.1:3306/jboard"
+        username="jboard"
+        password="1234"
+        maxTotal="13"
+        maxIdle="13"
+        maxWaitMillis="3000"
+    />
+    
     <!-- 커넥션 풀 설정(톰켓제공) -->
      <Resource 
         name="jdbc/shop"
@@ -86,13 +100,16 @@
     	name="jdbc/studydb"
         auth="Container"
         type="javax.sql.DataSource"
-        maxTotal="13"
-        maxIdle="13"
+        maxTotal="20"
+        maxIdle="10"
         maxWaitMillis="3000"
         username="root"
         password="1234"
         driverClassName="com.mysql.cj.jdbc.Driver"
         url="jdbc:mysql://127.0.0.1:3306/studydb"/>
     />
+    
+
+    
     
 </Context>
