@@ -2,8 +2,8 @@ package com.jboard.controller.user;
 
 import java.io.IOException;
 
-import com.jboard.dto.user.UserDto;
-import com.jboard.service.user.UserService;
+import com.jboard.dto.UserDto;
+import com.jboard.service.UserService;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
@@ -19,10 +19,8 @@ public class RegisterController extends HttpServlet {
 	
 	private UserService service = UserService.INSTANCE;
 	
-	
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
 		RequestDispatcher dispatcher = req.getRequestDispatcher("/WEB-INF/user/register.jsp");
 		dispatcher.forward(req, resp);
 	}
@@ -40,6 +38,7 @@ public class RegisterController extends HttpServlet {
 		String zip = req.getParameter("zip");
 		String addr1 = req.getParameter("addr1");
 		String addr2 = req.getParameter("addr2");
+		String regip = req.getRemoteAddr();
 		
 		// DTO 생성
 		UserDto userDto = new UserDto();
@@ -52,6 +51,7 @@ public class RegisterController extends HttpServlet {
 		userDto.setZip(zip);
 		userDto.setAddr1(addr1);
 		userDto.setAddr2(addr2);
+		userDto.setRegip(regip);
 		
 		// 데이터 저장
 		service.insertUser(userDto);

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82aed1c3-6532-459b-aa9c-90363d9a19f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servers/Servers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/ch01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/ch02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/ch03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/ch04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/ch05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/ch06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/ch07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/ch08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/ch09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/ch10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/ch11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connTest/connTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jboard/jboard.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jboard/jboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/lib/jakarta.servlet-api-6.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/ListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/ListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/ModifyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/ModifyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/WriteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/article/WriteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/user/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/user/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/user/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/user/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/user/TermsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/controller/user/TermsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/dao/user/TermsDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/dao/user/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/dto/user/TermsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/dto/user/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/service/user/TermsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/service/user/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/util/SQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/java/com/jboard/util/SQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/article/_header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/article/_header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/article/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/article/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/article/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/article/write.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/user/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/WEB-INF/user/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jboard/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jboard/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2kxa92TKDrVJn6dJqsKR33jFnY6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Smart Tomcat.Tomcat: jboard.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lotte4/Desktop/workspace/jsp/jboard/src/main/webapp/WEB-INF/lib",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.externalTools",
+    "two.files.diff.last.used.folder": "C:/Users/lotte4/Desktop/workspace/jsp/jboard/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jboard.controller.article" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lotte4\Desktop\workspace\jsp\jboard\src\main\webapp\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat: jboard" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="/jboard" />
+      <option name="docBase" value="$PROJECT_DIR$/jboard/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.26" />
+          <option name="path" value="$USER_HOME$/apache-tomcat-10.1.26" />
+          <option name="version" value="10.1.26.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="jboard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82aed1c3-6532-459b-aa9c-90363d9a19f0" name="Changes" comment="" />
+      <created>1724227534973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724227534973</updated>
+    </task>
+    <servers />
+  </component>
+</project>
